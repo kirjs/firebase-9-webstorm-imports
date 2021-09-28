@@ -1,0 +1,4 @@
+
+addDoc
+initializeApp
+getAuth
